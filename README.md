@@ -26,3 +26,24 @@ The final model was evaluated using metrics such as accuracy, classification rep
 This task has practical applications in many real-world scenarios. Sentiment analysis is widely used by companies to analyze customer feedback, improve products and services, and monitor brand reputation. It is also used in social media analysis, product reviews, and recommendation systems. Through this task, we gained hands-on experience in handling textual data, applying machine learning techniques, and building a complete sentiment analysis pipeline from scratch.
 
 *OUTPUTS*:
+<img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/d2f602a0-6709-4303-a288-1c8e92246b75" />
+
+<img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/e13c4d21-6124-4a61-9dd9-3acfc240d459" />
+
+<img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/74c54b52-52ff-42fe-b733-1962e2f99e96" />
+
+<img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/a678574f-e981-46b3-bb85-6424fbc8cc01" />
+
+<img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/c6df081d-6b1c-4085-856b-cf486eca599b" />
+
+<img width="2551" height="1103" alt="Image" src="https://github.com/user-attachments/assets/560f828f-a3d4-47b6-9ed9-18e1420d5ade" />
+
+<img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/5bf71258-7672-472f-8c55-5c2936b4624b" />
+
+<img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/de69eb4a-5f15-42f9-8dba-f114e2725587" />
+
+<img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/4722c55c-ae59-4554-9f7a-5ca0f9def24d" />
+
+<img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/3cc488c3-b05c-490d-a188-010663b42a7d" />
+
+<img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/de52ec61-891d-4245-b6c5-f2dafa2d2926" />
